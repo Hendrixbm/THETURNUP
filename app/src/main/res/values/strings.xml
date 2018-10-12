@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> DETURNAPP</string>
+    <string name="user_name">username</string>
+    <string name="post_user_name">user name</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Open</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="create_account_button">create Account</string>
+    <string name="login_button">login</string>
+    <string name="prompt_tv">SignUp</string>
+    <string name="login_with">login With</string>
+    <string name="hint_username">User Name</string>
+    <string name="hint_fullname">Full Name</string>
+    <string name="hint_country">country</string>
+    <string name="button_save">save</string>
+    <string name="post_button">Update Post</string>
+    <string name="hint_post">Image description</string>
+</resources>

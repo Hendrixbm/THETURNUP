@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284849990690",
+    "firebase_url": "https://theturnup-57ca4.firebaseio.com",
+    "project_id": "theturnup-57ca4",
+    "storage_bucket": "theturnup-57ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284849990690:android:683969c508024d91",
+        "android_client_info": {
+          "package_name": "theturnup.solutionhub.com.theturnup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284849990690-nnj0ja1tkvkscas1tq648cj1misfhn0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "theturnup.solutionhub.com.theturnup",
+            "certificate_hash": "fbe7e2ce6a03d379be83615ead577e869a782c8a"
+          }
+        },
+        {
+          "client_id": "284849990690-tq5irkmk7tn7aveih4uh4la2odcondqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqAc55ZLJ0-pnCScWKZ0MX0hvQ0HusR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284849990690-tq5irkmk7tn7aveih4uh4la2odcondqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
